@@ -4,7 +4,7 @@
 
 The readings are listed below.
 
-You can find [an annotated version here](Ethical and Inclusive Data Science Readings.pdf).
+You can find [an annotated version here](Ethical%20and%20Inclusive%20Data%20Science%20Readings.pdf).
 
 Additions are welcome! To suggest an addition please file an Issue.
 
@@ -20,8 +20,7 @@ viewpoints represented in the readings below – except to say that each of the
 readings raise questions, put forward ideas, and make critiques that are worthy
 of your deep consideration.  All links last accessed July 11th, 2019.
 
-This guide
-was last updated July 11th, 2019.
+This guide was last updated July 11th, 2019.
 
 ### Books
 
@@ -37,47 +36,68 @@ Inequality and Threatens Democracy.__ Broadway Books.
 
 #### Deep Dives
 
-Broussard, Meredith. 2018. __Artificial Unintelligence: How Computers Misunderstand the World.__ MIT Press.
+Broussard, Meredith. 2018. __Artificial Unintelligence: How Computers
+Misunderstand the World.__ MIT Press.
 
-Benjamin, Ruha. 2019. __Race After Technology: Abolitionist Tools for the New Jim Code.__ Polity.
+Benjamin, Ruha. 2019. __Race After Technology: Abolitionist Tools for the New
+Jim Code.__ Polity.
 
 #### Practical Ways Forward
 
-Loukides, Mike, Hilary Mason, and DJ Patil. 2018. __Ethics and Data Science.__ O’Reilly.
+Loukides, Mike, Hilary Mason, and DJ Patil. 2018. __Ethics and Data Science.__
+O’Reilly.
 
 #### Gathering Voices
 
-brown, adrienne maree. 2017. __Emergent Strategy: Shaping Change, Changing Worlds.__ AK Press.
+brown, adrienne maree. 2017. __Emergent Strategy: Shaping Change, Changing
+Worlds.__ AK Press.
 
 ### Articles
 
 #### Great Overviews
 
 Wallach, Hanna. 2014. “Big Data, Machine Learning, and the Social Sciences:
-Fairness, Accountability, and Transparency.” Medium. [Online.](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d) 12.19.2014
+Fairness, Accountability, and Transparency.” Medium.
+[Online.](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d)
+12.19.2014
 
-O’Neil, Cathy. 2016. “How to Bring Better Ethics to Data Science.” Slate. (Online.)[https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html] 2.4.2016
+O’Neil, Cathy. 2016. “How to Bring Better Ethics to Data Science.” Slate.
+(Online.)[https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html]
+2.4.2016
 
-Broussard, Meredith. 2019. “Letting Go of Technochauvinism.” in Public Books. (Online.)[https://www.publicbooks.org/letting-go-of-technochauvinism/] 6.17.2019.
+Broussard, Meredith. 2019. “Letting Go of Technochauvinism.” in Public Books.
+(Online.)[https://www.publicbooks.org/letting-go-of-technochauvinism/]
+6.17.2019.
 
 #### Government and Accountability
 
-Fischer, Frank. 1993. “Citizen participation and democratization of policy expertise:
-From 	theoretical inquiry to practical cases.” Policy Sciences. v. 26 pp. 165-187.
+Fischer, Frank. 1993. “Citizen participation and democratization of policy
+expertise: From 	theoretical inquiry to practical cases.” Policy Sciences. v. 26
+pp. 165-187.
 
-Diakopoulos, Nicholas. 2016. “How to Hold Governments Accountable for the Algorithms
-They	Use.” Slate. (Online.)[https://slate.com/technology/2016/02/how-to-hold-governments-accountable-for-their-algorithms.html] 2.11.2016
+Diakopoulos, Nicholas. 2016. “How to Hold Governments Accountable for the
+Algorithms They	Use.” Slate.
+(Online.)[https://slate.com/technology/2016/02/how-to-hold-governments-accountable-for-their-algorithms.html]
+2.11.2016
 
-Angwin, Julia. 2016. “Making Algorithms Accountable.” ProPublica. (Online.)[https://www.propublica.org/article/making-algorithms-accountable] 2.1.2016
+Angwin, Julia. 2016. “Making Algorithms Accountable.” ProPublica.
+(Online.)[https://www.propublica.org/article/making-algorithms-accountable]
+2.1.2016
 
 #### Ethical Codes
 
-Patil, DJ. 2016. “A Code of Ethics for Data Science.” Medium. (Online._[https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1] 2.1.2018
+Patil, DJ. 2016. “A Code of Ethics for Data Science.” Medium.
+(Online._[https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1]
+2.1.2018
 
 Wheeler, Schaun. 2018. “An ethical code can’t be about ethics.” Towards Data
-Science. (Online.)[https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f] 2.6.2018
+Science.
+(Online.)[https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f]
+2.6.2018
 
-Eubanks, Virginia. 2018. “A Hippocratic Oath for Data Science.” (Online.)[https://virginia-eubanks.com/2018/02/21/a-hippocratic-oath-for-data-science/] 2.21.2018
+Eubanks, Virginia. 2018. “A Hippocratic Oath for Data Science.”
+(Online.)[https://virginia-eubanks.com/2018/02/21/a-hippocratic-oath-for-data-science/]
+2.21.2018
 
 #### Technology and Our Lives
 
@@ -85,10 +105,17 @@ Dash, Anil. 2018. Humane Tech. Medium. (Online.)[https://medium.com/humane-tech.
 
 ### Further Reading Lists
 
-Venkatasubramanian, Suresh and Katie Shelef. 2017. “Ethics of Data Science Course Syllabus.”	University of Utah. (Online.)[https://utah.instructure.com/courses/462398/assignments/syllabus]
+Venkatasubramanian, Suresh and Katie Shelef. 2017. “Ethics of Data Science
+Course Syllabus.”	University of Utah.
+(Online.)[https://utah.instructure.com/courses/462398/assignments/syllabus]
 
-Malliaraki, Eirini. 2018. “Toward ethical, transparent and fair AI/ML: a critical reading list.” 	Medium. (Online.)[https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list]
+Malliaraki, Eirini. 2018. “Toward ethical, transparent and fair AI/ML: a
+critical reading list.” 	Medium.
+(Online.)[https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list]
 
-Wickham, Hadley. 2018. “Readings in Applied Data Science.” (Online.)[https://github.com/hadley/stats337]
+Wickham, Hadley. 2018. “Readings in Applied Data Science.”
+(Online.)[https://github.com/hadley/stats337]
 
-Various. 2018. Readings in Data Ethics. O’Reilly. (Online.)[https://www.oreilly.com/tags/data-ethics]
+Various. 2018. Readings in Data Ethics. O’Reilly.
+(Online.)[https://www.oreilly.com/tags/data-ethics]
+S
