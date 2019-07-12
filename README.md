@@ -77,7 +77,7 @@ pp. 165-187.
 
 Diakopoulos, Nicholas. 2016. “How to Hold Governments Accountable for the
 Algorithms They	Use.” Slate.
-(Online.](https://slate.com/technology/2016/02/how-to-hold-governments-accountable-for-their-algorithms.html)
+[Online.](https://slate.com/technology/2016/02/how-to-hold-governments-accountable-for-their-algorithms.html)
 2.11.2016
 
 Angwin, Julia. 2016. “Making Algorithms Accountable.” ProPublica.
@@ -87,7 +87,7 @@ Angwin, Julia. 2016. “Making Algorithms Accountable.” ProPublica.
 #### Ethical Codes
 
 Patil, DJ. 2016. “A Code of Ethics for Data Science.” Medium.
-[Online._(https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
+[Online.](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
 2.1.2018
 
 Wheeler, Schaun. 2018. “An ethical code can’t be about ethics.” Towards Data
